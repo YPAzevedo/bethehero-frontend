@@ -4,6 +4,7 @@
 # Technologies
 - Reactjs
 - react-router-dom
+- Axios
 
 ## Description
 
