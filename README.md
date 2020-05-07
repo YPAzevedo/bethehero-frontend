@@ -1,4 +1,4 @@
-## Be the Hero
+## Be the Hero 🦸
 ![Imgur](https://i.imgur.com/PG9JdCG.png)
 
 # Technologies
